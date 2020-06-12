@@ -15,6 +15,7 @@ public int actualmiss = 1;
 public int currentMultiplier;
 public int multiplierTracker;
 
+private float totalHit;
 public int[] multiplierThresholds;
 public static GameManager instance;
 public TextMeshProUGUI scoreText;
@@ -34,7 +35,6 @@ void Update()
     finalScoreText.text= "" + currentScore;
     missesText.text= "" + miss;
 
-    float totalHit = currentScore/100;
     float percentHit = (totalHit / totalNotes) * 100f;
 
     percentHitText.text = percentHit.ToString("F1") + "%";
@@ -68,6 +68,7 @@ void Update()
         instance=this;
         currentMultiplier = 1;
         totalNotes = FindObjectsOfType<NoteObject>().Length;
+        Debug.Log(totalNotes);
     }
     public void NoteHit()
     {
@@ -80,7 +81,7 @@ void Update()
                 currentMultiplier ++;
             }
         }
-
+    totalHit++;
     multiText.text = "Multiplier: x" + currentMultiplier;
     currentScore += scorePerNote * currentMultiplier;
     scoreText.text = "Score " + currentScore;
