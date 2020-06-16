@@ -82,6 +82,7 @@ void Update()
             }
         }
     totalHit++;
+    Debug.Log(totalHit);
     multiText.text = "Multiplier: x" + currentMultiplier;
     currentScore += scorePerNote * currentMultiplier;
     scoreText.text = "Score " + currentScore;

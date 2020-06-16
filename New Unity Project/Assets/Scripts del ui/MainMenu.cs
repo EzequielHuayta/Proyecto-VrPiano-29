@@ -16,6 +16,11 @@ public void JugarAprendizaje()
     {
         SceneManager.LoadScene(1);
     }
+    public void VolverAlMenu()
+    {
+        SceneManager.LoadScene(3);
+    }
+    
 public void Salir()
     {
         Debug.Log("Salio");
