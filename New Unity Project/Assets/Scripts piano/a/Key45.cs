@@ -6,9 +6,12 @@ public class Key45 : MonoBehaviour
 {
 public AudioSource key45;
 public Rigidbody rb;
+
+public static int keyNumber = 45;
+public static bool presionada = false;
 private void OnMouseDown() 
 {
-
+presionada = true;
   transform.Rotate(-4,0,0);
     rb.isKinematic=true;
       key45.Play();

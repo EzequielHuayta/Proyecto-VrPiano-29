@@ -517,7 +517,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &21825917
 BoxCollider:
@@ -1534,7 +1534,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &40405797
 BoxCollider:
@@ -2637,7 +2637,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &65798349
 BoxCollider:
@@ -4030,7 +4030,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &102054334
 BoxCollider:
@@ -4659,7 +4659,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &120540493
 BoxCollider:
@@ -5347,7 +5347,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &132637618
 BoxCollider:
@@ -5740,7 +5740,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &139477038
 BoxCollider:
@@ -6005,7 +6005,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &142633859
 BoxCollider:
@@ -6222,7 +6222,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &145814185
 BoxCollider:
@@ -7037,7 +7037,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &156913963
 BoxCollider:
@@ -7317,7 +7317,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &161185526
 BoxCollider:
@@ -7724,7 +7724,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &169367814
 BoxCollider:
@@ -7912,7 +7912,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &174944469
 BoxCollider:
@@ -8422,7 +8422,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &189156305
 BoxCollider:
@@ -8660,7 +8660,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &192843954
 BoxCollider:
@@ -9107,7 +9107,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &209072367
 BoxCollider:
@@ -9309,7 +9309,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &210115016
 BoxCollider:
@@ -9652,7 +9652,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &215357915
 BoxCollider:
@@ -10256,7 +10256,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &219112105
 BoxCollider:
@@ -10844,7 +10844,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &234897755
 BoxCollider:
@@ -11193,7 +11193,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &239191906
 BoxCollider:
@@ -11867,7 +11867,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &245579022
 BoxCollider:
@@ -13333,7 +13333,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &279946571
 BoxCollider:
@@ -13610,7 +13610,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &285122257
 BoxCollider:
@@ -14777,7 +14777,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &315908194
 BoxCollider:
@@ -16048,7 +16048,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &364360893
 BoxCollider:
@@ -17810,7 +17810,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &393242134
 BoxCollider:
@@ -18012,7 +18012,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &394813294
 BoxCollider:
@@ -19618,7 +19618,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &433768818
 BoxCollider:
@@ -21169,7 +21169,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &467142925
 BoxCollider:
@@ -21296,7 +21296,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &468793416
 BoxCollider:
@@ -21625,7 +21625,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &471572294
 BoxCollider:
@@ -21902,7 +21902,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &477445326
 BoxCollider:
@@ -22390,7 +22390,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &485612444
 BoxCollider:
@@ -27284,7 +27284,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &595205647
 BoxCollider:
@@ -27547,7 +27547,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &597080881
 BoxCollider:
@@ -27763,7 +27763,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &598233116
 BoxCollider:
@@ -28295,7 +28295,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &610999887
 BoxCollider:
@@ -28497,7 +28497,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &614095879
 BoxCollider:
@@ -28858,7 +28858,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &620902354
 BoxCollider:
@@ -29187,7 +29187,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &630214266
 BoxCollider:
@@ -29656,7 +29656,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &634925378
 BoxCollider:
@@ -29863,7 +29863,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &639171354
 BoxCollider:
@@ -29990,7 +29990,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &640805648
 BoxCollider:
@@ -31158,7 +31158,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &667772753
 BoxCollider:
@@ -31271,7 +31271,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &668421922
 BoxCollider:
@@ -31603,7 +31603,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &674179115
 BoxCollider:
@@ -31941,7 +31941,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &678224902
 BoxCollider:
@@ -32684,7 +32684,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &691703595
 BoxCollider:
@@ -32811,7 +32811,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &693022600
 BoxCollider:
@@ -33999,7 +33999,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &712034719
 BoxCollider:
@@ -34162,7 +34162,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &717527673
 BoxCollider:
@@ -34500,7 +34500,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &719850229
 BoxCollider:
@@ -35944,7 +35944,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &748826193
 BoxCollider:
@@ -36670,7 +36670,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &756358108
 BoxCollider:
@@ -37434,7 +37434,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &761723025
 BoxCollider:
@@ -39829,7 +39829,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &831869112
 BoxCollider:
@@ -40083,7 +40083,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &832588466
 BoxCollider:
@@ -40951,7 +40951,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &845334461
 BoxCollider:
@@ -41510,7 +41510,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &848675696
 BoxCollider:
@@ -42064,7 +42064,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &863468397
 BoxCollider:
@@ -42341,7 +42341,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &869230138
 BoxCollider:
@@ -42468,7 +42468,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &869325478
 BoxCollider:
@@ -43543,7 +43543,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &895861799
 BoxCollider:
@@ -43731,7 +43731,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &897166818
 BoxCollider:
@@ -43858,7 +43858,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &899066727
 BoxCollider:
@@ -44335,7 +44335,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &910934602
 BoxCollider:
@@ -44634,7 +44634,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &917993353
 BoxCollider:
@@ -44940,7 +44940,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &918575243
 BoxCollider:
@@ -46307,7 +46307,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &947958139
 BoxCollider:
@@ -46584,7 +46584,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &953281515
 BoxCollider:
@@ -47138,7 +47138,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &957778236
 BoxCollider:
@@ -47640,7 +47640,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &970944010
 BoxCollider:
@@ -47903,7 +47903,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &979786170
 BoxCollider:
@@ -48778,7 +48778,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &993280398
 BoxCollider:
@@ -49316,7 +49316,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1005512342
 BoxCollider:
@@ -50258,7 +50258,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1019238964
 BoxCollider:
@@ -52634,7 +52634,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1071889440
 BoxCollider:
@@ -52836,7 +52836,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1078012172
 BoxCollider:
@@ -53118,7 +53118,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1085748997
 BoxCollider:
@@ -54280,7 +54280,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1115674596
 BoxCollider:
@@ -55124,7 +55124,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1139129693
 BoxCollider:
@@ -55575,7 +55575,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1160407144
 BoxCollider:
@@ -59838,7 +59838,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1206570033
 BoxCollider:
@@ -60301,7 +60301,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1225804810
 BoxCollider:
@@ -60748,7 +60748,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1231971269
 BoxCollider:
@@ -60875,7 +60875,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1232458131
 BoxCollider:
@@ -61002,7 +61002,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1235205452
 BoxCollider:
@@ -61129,7 +61129,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1236348239
 BoxCollider:
@@ -62087,7 +62087,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1261364550
 BoxCollider:
@@ -62214,7 +62214,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1261882283
 BoxCollider:
@@ -62602,7 +62602,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1268970164
 BoxCollider:
@@ -62940,7 +62940,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1274821044
 BoxCollider:
@@ -63461,7 +63461,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1282316225
 BoxCollider:
@@ -63743,7 +63743,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1286017859
 BoxCollider:
@@ -64072,7 +64072,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1290513252
 BoxCollider:
@@ -64235,7 +64235,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1292116726
 BoxCollider:
@@ -65061,7 +65061,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1304045813
 BoxCollider:
@@ -65174,7 +65174,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1304475316
 BoxCollider:
@@ -65390,7 +65390,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1312310006
 BoxCollider:
@@ -65917,7 +65917,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1322065126
 BoxCollider:
@@ -66118,7 +66118,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1324773647
 BoxCollider:
@@ -67545,7 +67545,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1352658798
 BoxCollider:
@@ -68041,7 +68041,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1362000345
 BoxCollider:
@@ -68318,7 +68318,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1366993676
 BoxCollider:
@@ -69523,7 +69523,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1389803052
 BoxCollider:
@@ -70489,7 +70489,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1400011854
 BoxCollider:
@@ -70771,7 +70771,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1404359836
 BoxCollider:
@@ -71084,7 +71084,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1406110657
 BoxCollider:
@@ -71338,7 +71338,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1411830695
 BoxCollider:
@@ -72236,7 +72236,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1426034220
 BoxCollider:
@@ -73322,7 +73322,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1453738114
 BoxCollider:
@@ -73749,7 +73749,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1462334132
 BoxCollider:
@@ -74348,7 +74348,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1472796573
 BoxCollider:
@@ -74630,7 +74630,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1478007031
 BoxCollider:
@@ -75461,7 +75461,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1502490035
 BoxCollider:
@@ -75982,7 +75982,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1519444509
 BoxCollider:
@@ -76716,7 +76716,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1527017963
 BoxCollider:
@@ -77129,7 +77129,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1530795287
 BoxCollider:
@@ -78173,7 +78173,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1550568944
 BoxCollider:
@@ -78450,7 +78450,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1553756376
 BoxCollider:
@@ -78652,7 +78652,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1557704776
 BoxCollider:
@@ -79038,7 +79038,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1562784991
 BoxCollider:
@@ -80131,7 +80131,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1575452936
 BoxCollider:
@@ -80371,7 +80371,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1578567930
 BoxCollider:
@@ -81571,7 +81571,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1599573798
 BoxCollider:
@@ -82114,7 +82114,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1612733021
 BoxCollider:
@@ -82479,7 +82479,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1630754029
 BoxCollider:
@@ -82648,7 +82648,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1645334448
 BoxCollider:
@@ -82850,7 +82850,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1648051061
 BoxCollider:
@@ -83282,7 +83282,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1653374389
 BoxCollider:
@@ -83484,7 +83484,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1656167067
 BoxCollider:
@@ -83747,7 +83747,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1661993569
 BoxCollider:
@@ -84240,7 +84240,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1668385668
 BoxCollider:
@@ -84442,7 +84442,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1672789541
 BoxCollider:
@@ -84569,7 +84569,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1677840205
 BoxCollider:
@@ -84996,7 +84996,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1682833451
 BoxCollider:
@@ -85159,7 +85159,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1684679982
 BoxCollider:
@@ -85821,7 +85821,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1701236898
 BoxCollider:
@@ -86330,7 +86330,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1708581340
 BoxCollider:
@@ -86532,7 +86532,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1711457376
 BoxCollider:
@@ -86659,7 +86659,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1714309134
 BoxCollider:
@@ -86772,7 +86772,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1715127756
 BoxCollider:
@@ -87557,7 +87557,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1733641084
 BoxCollider:
@@ -87809,7 +87809,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1738057541
 BoxCollider:
@@ -87936,7 +87936,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1740489550
 BoxCollider:
@@ -88155,7 +88155,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1741542596
 BoxCollider:
@@ -88807,7 +88807,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1754324093
 BoxCollider:
@@ -89097,7 +89097,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1760338325
 BoxCollider:
@@ -89449,7 +89449,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1765966741
 BoxCollider:
@@ -90283,7 +90283,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1790771480
 BoxCollider:
@@ -90724,7 +90724,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1802539830
 BoxCollider:
@@ -91117,7 +91117,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1821685421
 BoxCollider:
@@ -91230,7 +91230,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1823194624
 BoxCollider:
@@ -92139,7 +92139,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1836648941
 BoxCollider:
@@ -92888,7 +92888,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1855007374
 BoxCollider:
@@ -93128,7 +93128,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1856047700
 BoxCollider:
@@ -93685,7 +93685,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1863873625
 BoxCollider:
@@ -93887,7 +93887,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1875306587
 BoxCollider:
@@ -96523,7 +96523,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1933602622
 BoxCollider:
@@ -96786,7 +96786,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1935091119
 BoxCollider:
@@ -97099,7 +97099,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1939787937
 BoxCollider:
@@ -97226,7 +97226,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1939957441
 BoxCollider:
@@ -97935,7 +97935,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1957070166
 BoxCollider:
@@ -98362,7 +98362,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1969153450
 BoxCollider:
@@ -98719,7 +98719,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1974890623
 BoxCollider:
@@ -98996,7 +98996,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1978399703
 BoxCollider:
@@ -99309,7 +99309,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1983304963
 BoxCollider:
@@ -99436,7 +99436,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1987022812
 BoxCollider:
@@ -100247,7 +100247,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &1997786024
 BoxCollider:
@@ -102091,7 +102091,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &2052781249
 BoxCollider:
@@ -102310,7 +102310,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &2057831083
 BoxCollider:
@@ -102788,7 +102788,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &2066184335
 BoxCollider:
@@ -103214,7 +103214,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &2072654363
 BoxCollider:
@@ -103595,7 +103595,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &2077195583
 BoxCollider:
@@ -103736,7 +103736,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &2078222710
 BoxCollider:
@@ -103863,7 +103863,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &2080611916
 BoxCollider:
@@ -105077,7 +105077,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &2111914109
 BoxCollider:
@@ -105331,7 +105331,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 42
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &2118133490
 BoxCollider:
@@ -105946,7 +105946,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &2127217372
 BoxCollider:
@@ -106630,7 +106630,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 113
-  Flecha: PianoKey.001
+  Flecha: 0
   tecla: {fileID: 6450997186956746000}
 --- !u!65 &2146340979
 BoxCollider:

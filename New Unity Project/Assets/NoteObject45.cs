@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NoteObject : MonoBehaviour
+public class NoteObject45 : MonoBehaviour
 {
     public bool canBePressed;
     public KeyCode keyToPress;
@@ -25,7 +25,7 @@ public class NoteObject : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-TeclaNumero = Key42.presionada;
+TeclaNumero = Key45.presionada;
         if(Input.GetMouseButton(0) && TeclaNumero == true)
         {
          if(canBePressed)
@@ -38,7 +38,7 @@ TeclaNumero = Key42.presionada;
     }
    private void OnTriggerEnter(Collider other)
     {
-        if(other.tag == "Activator42" )
+        if(other.tag == "Activator45" )
         {
             canBePressed = true;
         }
@@ -55,4 +55,3 @@ TeclaNumero = Key42.presionada;
         }
     }
 }
-
