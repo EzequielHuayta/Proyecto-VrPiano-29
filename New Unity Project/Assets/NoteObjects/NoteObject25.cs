@@ -51,6 +51,7 @@ TeclaNumero = Key25.presionada;
             canBePressed = false;
 
             GameManager.instance.NoteMissed();
+            gameObject.SetActive(false);
         }
         }
     }
