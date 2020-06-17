@@ -8,7 +8,10 @@ public class NoteObject26 : MonoBehaviour
     public KeyCode keyToPress;
         public bool Sostenido;
     public int Flecha;
+    
+    private int cont=0;
 
+public int EsSostenido;
     public GameObject tecla;
 
       private static bool TeclaNumero;
@@ -16,7 +19,7 @@ public class NoteObject26 : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
- 
+
     }
 
 
@@ -31,16 +34,30 @@ TeclaNumero = Key26.presionada;
         {
          if(canBePressed)
             {
+                if (EsSostenido != 1)
+                {
             gameObject.SetActive(false);
-
             GameManager.instance.NoteHit();
+                }
+                if (EsSostenido == 1)
+                {
+                    GameManager.instance.NoteSustained(); 
+                    
+                    cont++;
+                
+                if(cont== 1)
+                {
+            GameManager.instance.NoteHit();
+            cont++;
+                }
+                }
             }
 
         }
-        if(Sostenido)
-        {
-           GameManager.instance.NoteSustained(); 
-        }
+       // probando if(Sostenido)
+        //{
+         //  GameManager.instance.NoteSustained(); 
+       // }
     }
    private void OnTriggerEnter(Collider other)
     {
@@ -49,14 +66,15 @@ TeclaNumero = Key26.presionada;
             canBePressed = true;
         }
     }
-        private void OnTriggerStay(Collider other)
+/*        private void OnTriggerStay(Collider other)
     {
         Debug.Log("esta");
-        if(other.tag == "Activator88" )
+        if(other.tag == "Activator26" )
         {
             Sostenido = true;
         }
     }
+    */
     private void OnTriggerExit(Collider other)
     {
         if(other.tag == "Activator26" )

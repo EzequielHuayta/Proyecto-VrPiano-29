@@ -2674,6 +2674,7 @@ MonoBehaviour:
   keyToPress: 0
   Sostenido: 0
   Flecha: 0
+  EsSostenido: 0
   tecla: {fileID: 0}
 --- !u!65 &65798349
 BoxCollider:
@@ -5436,6 +5437,7 @@ MonoBehaviour:
   keyToPress: 0
   Sostenido: 0
   Flecha: 0
+  EsSostenido: 0
   tecla: {fileID: 0}
 --- !u!65 &132637618
 BoxCollider:
@@ -13678,6 +13680,7 @@ MonoBehaviour:
   keyToPress: 0
   Sostenido: 0
   Flecha: 0
+  EsSostenido: 0
   tecla: {fileID: 0}
 --- !u!65 &279946571
 BoxCollider:
@@ -15157,6 +15160,7 @@ MonoBehaviour:
   keyToPress: 0
   Sostenido: 0
   Flecha: 0
+  EsSostenido: 0
   tecla: {fileID: 0}
 --- !u!65 &315908194
 BoxCollider:
@@ -27822,6 +27826,7 @@ MonoBehaviour:
   keyToPress: 0
   Sostenido: 0
   Flecha: 0
+  EsSostenido: 0
   tecla: {fileID: 0}
 --- !u!65 &595205647
 BoxCollider:
@@ -47757,6 +47762,7 @@ MonoBehaviour:
   keyToPress: 0
   Sostenido: 0
   Flecha: 0
+  EsSostenido: 0
   tecla: {fileID: 0}
 --- !u!65 &953281515
 BoxCollider:
@@ -48848,6 +48854,7 @@ MonoBehaviour:
   keyToPress: 0
   Sostenido: 0
   Flecha: 0
+  EsSostenido: 1
   tecla: {fileID: 0}
 --- !u!65 &970944010
 BoxCollider:
@@ -63734,6 +63741,7 @@ MonoBehaviour:
   keyToPress: 0
   Sostenido: 0
   Flecha: 0
+  EsSostenido: 0
   tecla: {fileID: 0}
 --- !u!65 &1261882283
 BoxCollider:
@@ -64495,6 +64503,7 @@ MonoBehaviour:
   keyToPress: 0
   Sostenido: 0
   Flecha: 0
+  EsSostenido: 0
   tecla: {fileID: 0}
 --- !u!65 &1274821044
 BoxCollider:
@@ -65333,6 +65342,7 @@ MonoBehaviour:
   keyToPress: 0
   Sostenido: 0
   Flecha: 0
+  EsSostenido: 0
   tecla: {fileID: 0}
 --- !u!65 &1286017859
 BoxCollider:
@@ -69255,6 +69265,7 @@ MonoBehaviour:
   keyToPress: 0
   Sostenido: 0
   Flecha: 0
+  EsSostenido: 0
   tecla: {fileID: 0}
 --- !u!65 &1352658798
 BoxCollider:
@@ -77215,6 +77226,7 @@ MonoBehaviour:
   keyToPress: 0
   Sostenido: 0
   Flecha: 0
+  EsSostenido: 0
   tecla: {fileID: 0}
 --- !u!65 &1502490035
 BoxCollider:
@@ -80273,6 +80285,7 @@ MonoBehaviour:
   keyToPress: 0
   Sostenido: 0
   Flecha: 0
+  EsSostenido: 0
   tecla: {fileID: 0}
 --- !u!65 &1553756376
 BoxCollider:
@@ -82263,6 +82276,7 @@ MonoBehaviour:
   keyToPress: 0
   Sostenido: 0
   Flecha: 0
+  EsSostenido: 0
   tecla: {fileID: 0}
 --- !u!65 &1578567930
 BoxCollider:
@@ -85260,6 +85274,7 @@ MonoBehaviour:
   keyToPress: 0
   Sostenido: 0
   Flecha: 0
+  EsSostenido: 0
   tecla: {fileID: 0}
 --- !u!65 &1653374389
 BoxCollider:
@@ -85760,6 +85775,7 @@ MonoBehaviour:
   keyToPress: 0
   Sostenido: 0
   Flecha: 0
+  EsSostenido: 0
   tecla: {fileID: 0}
 --- !u!65 &1661993569
 BoxCollider:
@@ -90356,6 +90372,7 @@ MonoBehaviour:
   keyToPress: 0
   Sostenido: 0
   Flecha: 0
+  EsSostenido: 0
   tecla: {fileID: 0}
 --- !u!65 &1741542596
 BoxCollider:
@@ -93421,6 +93438,7 @@ MonoBehaviour:
   keyToPress: 0
   Sostenido: 0
   Flecha: 0
+  EsSostenido: 0
   tecla: {fileID: 0}
 --- !u!65 &1821685421
 BoxCollider:
@@ -96277,6 +96295,7 @@ MonoBehaviour:
   keyToPress: 0
   Sostenido: 0
   Flecha: 0
+  EsSostenido: 0
   tecla: {fileID: 0}
 --- !u!65 &1875306587
 BoxCollider:
@@ -105366,6 +105385,7 @@ MonoBehaviour:
   keyToPress: 0
   Sostenido: 0
   Flecha: 0
+  EsSostenido: 0
   tecla: {fileID: 0}
 --- !u!65 &2066184335
 BoxCollider:
@@ -108644,6 +108664,7 @@ MonoBehaviour:
   keyToPress: 0
   Sostenido: 0
   Flecha: 0
+  EsSostenido: 0
   tecla: {fileID: 0}
 --- !u!65 &2127217372
 BoxCollider:
