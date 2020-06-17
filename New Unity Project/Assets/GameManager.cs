@@ -101,4 +101,10 @@ void Update()
         multiplierTracker = 0;
         multiText.text = "Multiplier: x" + currentMultiplier;
     }
+
+    public void NoteSustained()
+    {
+    currentScore += 1 * currentMultiplier;
+    scoreText.text = "Score " + currentScore;
+    }
 }

@@ -5,6 +5,8 @@ using UnityEngine;
 public class NoteObject88 : MonoBehaviour
 {
     public bool canBePressed;
+
+    public bool Sostenido;
     public KeyCode keyToPress;
     public int Flecha;
 
@@ -34,6 +36,10 @@ TeclaNumero = Key88.presionada;
 
             GameManager.instance.NoteHit();
             }
+        if(Sostenido)
+        {
+           GameManager.instance.NoteSustained(); 
+        }
         }
     }
    private void OnTriggerEnter(Collider other)
@@ -41,6 +47,14 @@ TeclaNumero = Key88.presionada;
         if(other.tag == "Activator88" )
         {
             canBePressed = true;
+        }
+    }
+
+    private void onTriggerStay(Collider other)
+    {
+        if(other.tag == "Activator88" )
+        {
+            Sostenido = true;
         }
     }
     private void OnTriggerExit(Collider other)

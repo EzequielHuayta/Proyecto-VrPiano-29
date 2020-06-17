@@ -6,6 +6,7 @@ public class NoteObject26 : MonoBehaviour
 {
     public bool canBePressed;
     public KeyCode keyToPress;
+        public bool Sostenido;
     public int Flecha;
 
     public GameObject tecla;
@@ -34,6 +35,10 @@ TeclaNumero = Key26.presionada;
 
             GameManager.instance.NoteHit();
             }
+        if(Sostenido)
+        {
+           GameManager.instance.NoteSustained(); 
+        }
         }
     }
    private void OnTriggerEnter(Collider other)
@@ -41,6 +46,13 @@ TeclaNumero = Key26.presionada;
         if(other.tag == "Activator26" )
         {
             canBePressed = true;
+        }
+    }
+        private void onTriggerStay(Collider other)
+    {
+        if(other.tag == "Activator88" )
+        {
+            Sostenido = true;
         }
     }
     private void OnTriggerExit(Collider other)
