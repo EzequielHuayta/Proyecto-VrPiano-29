@@ -62,6 +62,11 @@ void Update()
         }
     rankText.text = rankVal;
     }
+    if(percentHit<40)
+    {
+        rankVal="F";
+        rankText.text = rankVal;
+    }
 }
     void Start()
     {
