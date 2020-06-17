@@ -45,7 +45,7 @@ TeclaNumero = Key44.presionada;
     }
     private void OnTriggerExit(Collider other)
     {
-        if(other.tag == "Activator" )
+        if(other.tag == "Activator44" )
         {
         {
             canBePressed = false;

@@ -6,9 +6,10 @@ public class Key85 : MonoBehaviour
 {
 public AudioSource key85;
 public Rigidbody rb;
+public static bool presionada = false;
 private void OnMouseDown() 
 {
-
+presionada=true;
   transform.Rotate(-4,0,0);
     rb.isKinematic=true;
       key85.Play();

@@ -28260,6 +28260,7 @@ GameObject:
   - component: {fileID: 610999888}
   - component: {fileID: 610999887}
   - component: {fileID: 610999886}
+  - component: {fileID: 610999890}
   m_Layer: 0
   m_Name: Arrow (3)
   m_TagString: PianoKey.001
@@ -28288,7 +28289,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 610999884}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7f03044043b6aa74797e57426fe882f5, type: 3}
   m_Name: 
@@ -28374,6 +28375,22 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &610999890
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 610999884}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c0a7150f2de5a347bd6b5d230894c14, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  canBePressed: 0
+  keyToPress: 0
+  Flecha: 0
+  tecla: {fileID: 0}
 --- !u!1001 &612396023
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -71303,6 +71320,7 @@ GameObject:
   - component: {fileID: 1411830696}
   - component: {fileID: 1411830695}
   - component: {fileID: 1411830694}
+  - component: {fileID: 1411830698}
   m_Layer: 0
   m_Name: Arrow (10)
   m_TagString: PianoKey.001
@@ -71331,7 +71349,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1411830692}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7f03044043b6aa74797e57426fe882f5, type: 3}
   m_Name: 
@@ -71417,6 +71435,22 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1411830698
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1411830692}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dad61578982f4e84385c022e7acd9f14, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  canBePressed: 0
+  keyToPress: 0
+  Flecha: 0
+  tecla: {fileID: 0}
 --- !u!1 &1413482652
 GameObject:
   m_ObjectHideFlags: 0
@@ -107149,7 +107183,7 @@ GameObject:
   - component: {fileID: 194222227042320070}
   m_Layer: 0
   m_Name: PianoKey.082
-  m_TagString: Activator
+  m_TagString: Activator82
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -107398,7 +107432,7 @@ GameObject:
   - component: {fileID: 238089430463364149}
   m_Layer: 0
   m_Name: PianoKey.046
-  m_TagString: Activator
+  m_TagString: Activator46
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -107573,7 +107607,7 @@ GameObject:
   - component: {fileID: 368046921732962410}
   m_Layer: 0
   m_Name: PianoKey.023
-  m_TagString: Activator
+  m_TagString: Activator23
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -107695,7 +107729,7 @@ GameObject:
   - component: {fileID: 411796762359422202}
   m_Layer: 0
   m_Name: PianoKey.011
-  m_TagString: Activator
+  m_TagString: Activator11
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -108006,7 +108040,7 @@ GameObject:
   - component: {fileID: 587702464297051502}
   m_Layer: 0
   m_Name: PianoKey.022
-  m_TagString: Activator
+  m_TagString: Activator22
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -108120,7 +108154,7 @@ GameObject:
   - component: {fileID: 597610049146374288}
   m_Layer: 0
   m_Name: PianoKey.033
-  m_TagString: Activator
+  m_TagString: Activator33
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -108248,7 +108282,7 @@ GameObject:
   - component: {fileID: 651648259376700369}
   m_Layer: 0
   m_Name: PianoKey.025
-  m_TagString: Activator
+  m_TagString: Activator25
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -108348,7 +108382,7 @@ GameObject:
   - component: {fileID: 668946641216959694}
   m_Layer: 0
   m_Name: PianoKey.043
-  m_TagString: Activator
+  m_TagString: Activator43
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -108534,7 +108568,7 @@ GameObject:
   - component: {fileID: 721831044280425456}
   m_Layer: 0
   m_Name: PianoKey.087
-  m_TagString: Activator
+  m_TagString: Activator87
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -109086,7 +109120,7 @@ GameObject:
   - component: {fileID: 1048798801178718737}
   m_Layer: 0
   m_Name: PianoKey.013
-  m_TagString: Activator
+  m_TagString: Activator13
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -109239,7 +109273,7 @@ GameObject:
   - component: {fileID: 1079407748137748838}
   m_Layer: 0
   m_Name: PianoKey.016
-  m_TagString: Activator
+  m_TagString: Activator16
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -109488,7 +109522,7 @@ GameObject:
   - component: {fileID: 1193598123152110909}
   m_Layer: 0
   m_Name: PianoKey.004
-  m_TagString: Activator
+  m_TagString: Activator4
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -109651,7 +109685,7 @@ GameObject:
   - component: {fileID: 1333479991481153126}
   m_Layer: 0
   m_Name: PianoKey.061
-  m_TagString: Activator
+  m_TagString: Activator61
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -109785,7 +109819,7 @@ GameObject:
   - component: {fileID: 1427332457388816966}
   m_Layer: 0
   m_Name: PianoKey.053
-  m_TagString: Activator
+  m_TagString: Activator53
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -109932,7 +109966,7 @@ GameObject:
   - component: {fileID: 1450985700250812235}
   m_Layer: 0
   m_Name: PianoKey.036
-  m_TagString: Activator
+  m_TagString: Activator36
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -110312,7 +110346,7 @@ GameObject:
   - component: {fileID: 1770750840505781774}
   m_Layer: 0
   m_Name: PianoKey.079
-  m_TagString: Activator
+  m_TagString: Activator79
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -110448,7 +110482,7 @@ GameObject:
   - component: {fileID: 1849723649932983790}
   m_Layer: 0
   m_Name: PianoKey.028
-  m_TagString: Activator
+  m_TagString: Activator28
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -110626,7 +110660,7 @@ GameObject:
   - component: {fileID: 1870645017280150944}
   m_Layer: 0
   m_Name: PianoKey.054
-  m_TagString: Activator
+  m_TagString: Activator54
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -110726,7 +110760,7 @@ GameObject:
   - component: {fileID: 1871650229157574832}
   m_Layer: 0
   m_Name: PianoKey.072
-  m_TagString: Activator
+  m_TagString: Activator72
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -111000,7 +111034,7 @@ GameObject:
   - component: {fileID: 1959155193406162469}
   m_Layer: 0
   m_Name: PianoKey.080
-  m_TagString: Activator
+  m_TagString: Activator80
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -111318,7 +111352,7 @@ GameObject:
   - component: {fileID: 2205136695275836936}
   m_Layer: 0
   m_Name: PianoKey.069
-  m_TagString: Activator
+  m_TagString: Activator69
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -112042,7 +112076,7 @@ GameObject:
   - component: {fileID: 2599341555444106668}
   m_Layer: 0
   m_Name: PianoKey.040
-  m_TagString: Activator
+  m_TagString: Activator40
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -112142,7 +112176,7 @@ GameObject:
   - component: {fileID: 2637617585699085144}
   m_Layer: 0
   m_Name: PianoKey.055
-  m_TagString: Activator
+  m_TagString: Activator55
   m_Icon: {fileID: -1412012063857583412, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -112289,7 +112323,7 @@ GameObject:
   - component: {fileID: 2741621974851936982}
   m_Layer: 0
   m_Name: PianoKey.009
-  m_TagString: Activator
+  m_TagString: Activator9
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -112550,7 +112584,7 @@ GameObject:
   - component: {fileID: 2842252091076201677}
   m_Layer: 0
   m_Name: PianoKey.048
-  m_TagString: Activator
+  m_TagString: Activator48
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -112852,7 +112886,7 @@ GameObject:
   - component: {fileID: 3008605502263863511}
   m_Layer: 0
   m_Name: PianoKey.075
-  m_TagString: Activator
+  m_TagString: Activator75
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -113124,7 +113158,7 @@ GameObject:
   - component: {fileID: 3204579346960445318}
   m_Layer: 0
   m_Name: PianoKey.027
-  m_TagString: Activator
+  m_TagString: Activator27
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -113399,7 +113433,7 @@ GameObject:
   - component: {fileID: 3328980321650721852}
   m_Layer: 0
   m_Name: PianoKey.051
-  m_TagString: Activator
+  m_TagString: Activator51
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -113731,7 +113765,7 @@ GameObject:
   - component: {fileID: 3474772341294573313}
   m_Layer: 0
   m_Name: PianoKey.020
-  m_TagString: Activator
+  m_TagString: Activator20
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -113831,7 +113865,7 @@ GameObject:
   - component: {fileID: 3480561194143776345}
   m_Layer: 0
   m_Name: PianoKey.030
-  m_TagString: Activator
+  m_TagString: Activator30
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -113978,7 +114012,7 @@ GameObject:
   - component: {fileID: 3492938173518606124}
   m_Layer: 0
   m_Name: PianoKey.060
-  m_TagString: Activator
+  m_TagString: Activator60
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -114200,7 +114234,7 @@ GameObject:
   - component: {fileID: 3577407686644118803}
   m_Layer: 0
   m_Name: PianoKey.041
-  m_TagString: Activator
+  m_TagString: Activator41
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -114435,7 +114469,7 @@ GameObject:
   - component: {fileID: 3700549859609622747}
   m_Layer: 0
   m_Name: PianoKey.021
-  m_TagString: Activator
+  m_TagString: Activator21
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -114549,7 +114583,7 @@ GameObject:
   - component: {fileID: 3715044983695567496}
   m_Layer: 0
   m_Name: PianoKey.050
-  m_TagString: Activator
+  m_TagString: Activator50
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -114801,7 +114835,7 @@ GameObject:
   - component: {fileID: 3856573359146815768}
   m_Layer: 0
   m_Name: PianoKey.037
-  m_TagString: Activator
+  m_TagString: Activator37
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -115010,7 +115044,7 @@ GameObject:
   - component: {fileID: 4044989767272645501}
   m_Layer: 0
   m_Name: PianoKey.059
-  m_TagString: Activator
+  m_TagString: Activator59
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -115224,7 +115258,7 @@ GameObject:
   - component: {fileID: 4169736189683803423}
   m_Layer: 0
   m_Name: PianoKey.067
-  m_TagString: Activator
+  m_TagString: Activator67
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -115393,7 +115427,7 @@ GameObject:
   - component: {fileID: 4323559790304522355}
   m_Layer: 0
   m_Name: PianoKey.077
-  m_TagString: Activator
+  m_TagString: Activator77
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -115578,7 +115612,7 @@ GameObject:
   - component: {fileID: 4438747513145561712}
   m_Layer: 0
   m_Name: PianoKey.062
-  m_TagString: Activator
+  m_TagString: Activator62
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -115777,7 +115811,7 @@ GameObject:
   - component: {fileID: 4532911795706501899}
   m_Layer: 0
   m_Name: PianoKey.019
-  m_TagString: Activator
+  m_TagString: Activator19
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -116056,7 +116090,7 @@ GameObject:
   - component: {fileID: 4652973626773141738}
   m_Layer: 0
   m_Name: PianoKey.008
-  m_TagString: Activator
+  m_TagString: Activator8
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -116298,7 +116332,7 @@ GameObject:
   - component: {fileID: 4718808144676972909}
   m_Layer: 0
   m_Name: PianoKey.002
-  m_TagString: Activator
+  m_TagString: Activator2
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -116512,7 +116546,7 @@ GameObject:
   - component: {fileID: 4810662295487126468}
   m_Layer: 0
   m_Name: PianoKey.085
-  m_TagString: Activator
+  m_TagString: Activator85
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -116708,7 +116742,7 @@ GameObject:
   - component: {fileID: 4859911496252194697}
   m_Layer: 0
   m_Name: PianoKey.056
-  m_TagString: Activator
+  m_TagString: Activator56
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -116987,7 +117021,7 @@ GameObject:
   - component: {fileID: 4953821821626584589}
   m_Layer: 0
   m_Name: PianoKey.006
-  m_TagString: Activator
+  m_TagString: Activator6
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -117127,7 +117161,7 @@ GameObject:
   - component: {fileID: 5008030184822461095}
   m_Layer: 0
   m_Name: PianoKey.005
-  m_TagString: Activator
+  m_TagString: Activator5
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -117310,7 +117344,7 @@ GameObject:
   - component: {fileID: 5061346290333686205}
   m_Layer: 0
   m_Name: PianoKey.073
-  m_TagString: Activator
+  m_TagString: Activator73
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -117410,7 +117444,7 @@ GameObject:
   - component: {fileID: 5070389768888727476}
   m_Layer: 0
   m_Name: PianoKey.084
-  m_TagString: Activator
+  m_TagString: Activator84
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -117517,7 +117551,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4859911496252194693}
   m_LocalRotation: {x: -0.00000003774895, y: 0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.23317859, y: 1.0149362, z: -0.053798024}
+  m_LocalPosition: {x: 0.2332, y: 1.015, z: -0.0409}
   m_LocalScale: {x: 100, y: 100, z: 100}
   m_Children: []
   m_Father: {fileID: 5625832718132142617}
@@ -117685,7 +117719,7 @@ GameObject:
   - component: {fileID: 5369555393906995684}
   m_Layer: 0
   m_Name: PianoKey.015
-  m_TagString: Activator
+  m_TagString: Activator15
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -117793,7 +117827,7 @@ GameObject:
   - component: {fileID: 5417129941523901502}
   m_Layer: 0
   m_Name: PianoKey.070
-  m_TagString: Activator
+  m_TagString: Activator70
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -117948,7 +117982,7 @@ GameObject:
   - component: {fileID: 5509571263411533148}
   m_Layer: 0
   m_Name: PianoKey.074
-  m_TagString: Activator
+  m_TagString: Activator74
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -118738,7 +118772,7 @@ GameObject:
   - component: {fileID: 5912559449875439695}
   m_Layer: 0
   m_Name: PianoKey.007
-  m_TagString: Activator
+  m_TagString: Activator7
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -119061,7 +119095,7 @@ GameObject:
   - component: {fileID: 6130750515111445365}
   m_Layer: 0
   m_Name: PianoKey.029
-  m_TagString: Activator
+  m_TagString: Activator29
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -119214,7 +119248,7 @@ GameObject:
   - component: {fileID: 6174730905093299421}
   m_Layer: 0
   m_Name: PianoKey.068
-  m_TagString: Activator
+  m_TagString: Activator68
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -119346,7 +119380,7 @@ GameObject:
   - component: {fileID: 6211726501024683624}
   m_Layer: 0
   m_Name: PianoKey.031
-  m_TagString: Activator
+  m_TagString: Activator31
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -119577,7 +119611,7 @@ GameObject:
   - component: {fileID: 6322982248448635669}
   m_Layer: 0
   m_Name: PianoKey.088
-  m_TagString: Activator
+  m_TagString: Activator88
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -119891,7 +119925,7 @@ GameObject:
   - component: {fileID: 6484481690495263062}
   m_Layer: 0
   m_Name: PianoKey.018
-  m_TagString: Activator
+  m_TagString: Activator18
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -120131,7 +120165,7 @@ GameObject:
   - component: {fileID: 6549379247926587508}
   m_Layer: 0
   m_Name: PianoKey.014
-  m_TagString: Activator
+  m_TagString: Activator14
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -120357,7 +120391,7 @@ GameObject:
   - component: {fileID: 6737795573956919223}
   m_Layer: 0
   m_Name: PianoKey.039
-  m_TagString: Activator
+  m_TagString: Activator39
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -120555,7 +120589,7 @@ GameObject:
   - component: {fileID: 6817547808869419632}
   m_Layer: 0
   m_Name: PianoKey.066
-  m_TagString: Activator
+  m_TagString: Activator66
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -120671,7 +120705,7 @@ GameObject:
   - component: {fileID: 6861255161198504902}
   m_Layer: 0
   m_Name: PianoKey.032
-  m_TagString: Activator
+  m_TagString: Activator32
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -120860,7 +120894,7 @@ GameObject:
   - component: {fileID: 6942602077693992027}
   m_Layer: 0
   m_Name: PianoKey.086
-  m_TagString: Activator
+  m_TagString: Activator86
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -121195,7 +121229,7 @@ GameObject:
   - component: {fileID: 7045976261236160002}
   m_Layer: 0
   m_Name: PianoKey.017
-  m_TagString: Activator
+  m_TagString: Activator17
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -121402,7 +121436,7 @@ GameObject:
   - component: {fileID: 7146355399349240940}
   m_Layer: 0
   m_Name: PianoKey.063
-  m_TagString: Activator
+  m_TagString: Activator63
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -121619,7 +121653,7 @@ GameObject:
   - component: {fileID: 7166336798821285025}
   m_Layer: 0
   m_Name: PianoKey.045
-  m_TagString: Activator
+  m_TagString: Activator45
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -121749,7 +121783,7 @@ GameObject:
   - component: {fileID: 7194035671891151452}
   m_Layer: 0
   m_Name: PianoKey.012
-  m_TagString: Activator
+  m_TagString: Activator12
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -121865,7 +121899,7 @@ GameObject:
   - component: {fileID: 7235803451008593763}
   m_Layer: 0
   m_Name: PianoKey.065
-  m_TagString: Activator
+  m_TagString: Activator65
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -122233,7 +122267,7 @@ GameObject:
   - component: {fileID: 7551247598256028016}
   m_Layer: 0
   m_Name: PianoKey.064
-  m_TagString: Activator
+  m_TagString: Activator64
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -122333,7 +122367,7 @@ GameObject:
   - component: {fileID: 7553216257707547139}
   m_Layer: 0
   m_Name: PianoKey.078
-  m_TagString: Activator
+  m_TagString: Activator78
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -122720,7 +122754,7 @@ GameObject:
   - component: {fileID: 7912828460210857770}
   m_Layer: 0
   m_Name: PianoKey.052
-  m_TagString: Activator
+  m_TagString: Activator52
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -122993,7 +123027,7 @@ GameObject:
   - component: {fileID: 8062269431753995781}
   m_Layer: 0
   m_Name: PianoKey.038
-  m_TagString: Activator
+  m_TagString: Activator38
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -123247,7 +123281,7 @@ GameObject:
   - component: {fileID: 8188909804385222612}
   m_Layer: 0
   m_Name: PianoKey.083
-  m_TagString: Activator
+  m_TagString: Activator83
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -123383,7 +123417,7 @@ GameObject:
   - component: {fileID: 8196859281284143522}
   m_Layer: 0
   m_Name: PianoKey.003
-  m_TagString: Activator
+  m_TagString: Activator3
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -123800,7 +123834,7 @@ GameObject:
   - component: {fileID: 8361129119641777691}
   m_Layer: 0
   m_Name: PianoKey.042
-  m_TagString: Activator
+  m_TagString: Activator42
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -124234,7 +124268,7 @@ GameObject:
   - component: {fileID: 8687016769184383118}
   m_Layer: 0
   m_Name: PianoKey.071
-  m_TagString: Activator
+  m_TagString: Activator71
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -124459,7 +124493,7 @@ GameObject:
   - component: {fileID: 8725871494947628186}
   m_Layer: 0
   m_Name: PianoKey.034
-  m_TagString: Activator
+  m_TagString: Activator34
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -124589,7 +124623,7 @@ GameObject:
   - component: {fileID: 8768253891637340333}
   m_Layer: 0
   m_Name: PianoKey.076
-  m_TagString: Activator
+  m_TagString: Activator76
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -124703,7 +124737,7 @@ GameObject:
   - component: {fileID: 8780359443022955734}
   m_Layer: 0
   m_Name: PianoKey.026
-  m_TagString: Activator
+  m_TagString: Activator26
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -124803,7 +124837,7 @@ GameObject:
   - component: {fileID: 8787725126631366473}
   m_Layer: 0
   m_Name: PianoKey.049
-  m_TagString: Activator
+  m_TagString: Activator49
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -124960,7 +124994,7 @@ GameObject:
   - component: {fileID: 8802287953113027788}
   m_Layer: 0
   m_Name: PianoKey.010
-  m_TagString: Activator
+  m_TagString: Activator10
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -125082,7 +125116,7 @@ GameObject:
   - component: {fileID: 8850895824960239569}
   m_Layer: 0
   m_Name: PianoKey.081
-  m_TagString: Activator
+  m_TagString: Activator81
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -125182,7 +125216,7 @@ GameObject:
   - component: {fileID: 8871695045167560126}
   m_Layer: 0
   m_Name: PianoKey.057
-  m_TagString: Activator
+  m_TagString: Activator57
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -125282,7 +125316,7 @@ GameObject:
   - component: {fileID: 8897118648257925399}
   m_Layer: 0
   m_Name: PianoKey.044
-  m_TagString: Activator
+  m_TagString: Activator44
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -125382,7 +125416,7 @@ GameObject:
   - component: {fileID: 8904636066825899376}
   m_Layer: 0
   m_Name: PianoKey.047
-  m_TagString: Activator
+  m_TagString: Activator47
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -125543,7 +125577,7 @@ GameObject:
   - component: {fileID: 9004137465366424245}
   m_Layer: 0
   m_Name: PianoKey.024
-  m_TagString: Activator
+  m_TagString: Activator24
   m_Icon: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -125700,7 +125734,7 @@ GameObject:
   - component: {fileID: 9043460657787265405}
   m_Layer: 0
   m_Name: PianoKey.035
-  m_TagString: Activator
+  m_TagString: Activator35
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -125800,7 +125834,7 @@ GameObject:
   - component: {fileID: 9046678104577936295}
   m_Layer: 0
   m_Name: PianoKey.058
-  m_TagString: Activator
+  m_TagString: Activator58
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
