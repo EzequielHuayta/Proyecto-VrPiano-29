@@ -19,6 +19,7 @@ presionada = true;
 }    
 
 private void OnMouseUp() {
+  presionada = false;
   key42.Stop();
   rb.isKinematic=false;
 }
