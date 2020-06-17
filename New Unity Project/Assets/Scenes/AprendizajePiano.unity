@@ -2672,6 +2672,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 0
+  Sostenido: 0
   Flecha: 0
   tecla: {fileID: 0}
 --- !u!65 &65798349
@@ -5433,6 +5434,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 0
+  Sostenido: 0
   Flecha: 0
   tecla: {fileID: 0}
 --- !u!65 &132637618
@@ -13674,6 +13676,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 0
+  Sostenido: 0
   Flecha: 0
   tecla: {fileID: 0}
 --- !u!65 &279946571
@@ -15152,6 +15155,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 0
+  Sostenido: 0
   Flecha: 0
   tecla: {fileID: 0}
 --- !u!65 &315908194
@@ -27816,6 +27820,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 0
+  Sostenido: 0
   Flecha: 0
   tecla: {fileID: 0}
 --- !u!65 &595205647
@@ -47750,6 +47755,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 0
+  Sostenido: 0
   Flecha: 0
   tecla: {fileID: 0}
 --- !u!65 &953281515
@@ -48840,6 +48846,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 0
+  Sostenido: 0
   Flecha: 0
   tecla: {fileID: 0}
 --- !u!65 &970944010
@@ -63725,6 +63732,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 0
+  Sostenido: 0
   Flecha: 0
   tecla: {fileID: 0}
 --- !u!65 &1261882283
@@ -64485,6 +64493,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 0
+  Sostenido: 0
   Flecha: 0
   tecla: {fileID: 0}
 --- !u!65 &1274821044
@@ -65322,6 +65331,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 0
+  Sostenido: 0
   Flecha: 0
   tecla: {fileID: 0}
 --- !u!65 &1286017859
@@ -69243,6 +69253,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 0
+  Sostenido: 0
   Flecha: 0
   tecla: {fileID: 0}
 --- !u!65 &1352658798
@@ -77202,6 +77213,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 0
+  Sostenido: 0
   Flecha: 0
   tecla: {fileID: 0}
 --- !u!65 &1502490035
@@ -80259,6 +80271,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 0
+  Sostenido: 0
   Flecha: 0
   tecla: {fileID: 0}
 --- !u!65 &1553756376
@@ -82004,8 +82017,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 2.8297281, y: 5.28833, z: 0.2}
-  m_Center: {x: 0.0290431, y: 0.0027153469, z: 2.528972e-10}
+  m_Size: {x: 2.8297281, y: 5.288331, z: 0.26538908}
+  m_Center: {x: 0.029043054, y: 0.0027153483, z: 0.03269456}
 --- !u!114 &1575452937
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -82248,6 +82261,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 0
+  Sostenido: 0
   Flecha: 0
   tecla: {fileID: 0}
 --- !u!65 &1578567930
@@ -85244,6 +85258,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 0
+  Sostenido: 0
   Flecha: 0
   tecla: {fileID: 0}
 --- !u!65 &1653374389
@@ -85743,6 +85758,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 0
+  Sostenido: 0
   Flecha: 0
   tecla: {fileID: 0}
 --- !u!65 &1661993569
@@ -90338,6 +90354,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 0
+  Sostenido: 0
   Flecha: 0
   tecla: {fileID: 0}
 --- !u!65 &1741542596
@@ -93402,6 +93419,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 0
+  Sostenido: 0
   Flecha: 0
   tecla: {fileID: 0}
 --- !u!65 &1821685421
@@ -96257,6 +96275,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 0
+  Sostenido: 0
   Flecha: 0
   tecla: {fileID: 0}
 --- !u!65 &1875306587
@@ -105345,6 +105364,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 0
+  Sostenido: 0
   Flecha: 0
   tecla: {fileID: 0}
 --- !u!65 &2066184335
@@ -108622,6 +108642,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   canBePressed: 0
   keyToPress: 0
+  Sostenido: 0
   Flecha: 0
   tecla: {fileID: 0}
 --- !u!65 &2127217372

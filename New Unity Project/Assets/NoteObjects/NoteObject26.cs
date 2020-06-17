@@ -35,10 +35,11 @@ TeclaNumero = Key26.presionada;
 
             GameManager.instance.NoteHit();
             }
+
+        }
         if(Sostenido)
         {
            GameManager.instance.NoteSustained(); 
-        }
         }
     }
    private void OnTriggerEnter(Collider other)
@@ -48,8 +49,9 @@ TeclaNumero = Key26.presionada;
             canBePressed = true;
         }
     }
-        private void onTriggerStay(Collider other)
+        private void OnTriggerStay(Collider other)
     {
+        Debug.Log("esta");
         if(other.tag == "Activator88" )
         {
             Sostenido = true;
