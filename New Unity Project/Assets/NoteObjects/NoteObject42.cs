@@ -11,6 +11,7 @@ public class NoteObject42 : MonoBehaviour
     public GameObject tecla;
 
       private static bool TeclaNumero;
+
   private bool ok;
     // Start is called before the first frame update
     void Start()
@@ -18,23 +19,23 @@ public class NoteObject42 : MonoBehaviour
  
     }
 
-
-
-
-
     // Update is called once per frame
     void Update()
     {
 TeclaNumero = Key42.presionada;
+
         if(Input.GetMouseButton(0) && TeclaNumero == true)
         {
          if(canBePressed)
             {
             gameObject.SetActive(false);
-
+            TeclaNumero=false;
             GameManager.instance.NoteHit();
+
             }
         }
+
+  
     }
    private void OnTriggerEnter(Collider other)
     {
@@ -42,6 +43,7 @@ TeclaNumero = Key42.presionada;
         {
             canBePressed = true;
         }
+
     }
     private void OnTriggerExit(Collider other)
     {
@@ -54,5 +56,6 @@ TeclaNumero = Key42.presionada;
         }
         }
     }
+
 }
 

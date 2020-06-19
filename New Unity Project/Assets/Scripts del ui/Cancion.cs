@@ -5,6 +5,7 @@ using UnityEngine.UI;
 [RequireComponent(typeof(Button))]
 public class Cancion : MonoBehaviour
 {
+    public static string NombreCancion;
     public Text changingtext;
 
     public GameObject aObject;
@@ -15,7 +16,7 @@ private AudioManager theAM;
 
 void Start (){
 
-
+    NombreCancion = gameObject.name;
     theAM = FindObjectOfType<AudioManager>();
 
 }
