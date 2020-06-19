@@ -26,23 +26,28 @@ TeclaNumero = Key42.presionada;
 
         if(Input.GetMouseButton(0) && TeclaNumero == true)
         {
-         if(canBePressed)
+         if(canBePressed )
             {
             gameObject.SetActive(false);
             TeclaNumero=false;
             GameManager.instance.NoteHit();
-
+            
             }
+
         }
 
-  
     }
+
+
+
    private void OnTriggerEnter(Collider other)
     {
+
         if(other.tag == "Activator42" )
         {
             canBePressed = true;
         }
+        
 
     }
     private void OnTriggerExit(Collider other)
