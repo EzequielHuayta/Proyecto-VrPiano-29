@@ -1777,7 +1777,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 9da718bf77a1bfa469a219ed2267d4e6, type: 3}
+  m_audioClip: {fileID: 8300000, guid: d5cf5a3a61722c342bc586dd4b36dfef, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -3048,7 +3048,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: c8f9bf40588ace7469386d979996d469, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 50f68d0ad24b63a47856cab7530374ec, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -5437,7 +5437,7 @@ MonoBehaviour:
   keyToPress: 0
   Sostenido: 0
   Flecha: 0
-  EsSostenido: 0
+  EsSostenido: 1
   tecla: {fileID: 0}
 --- !u!65 &132637618
 BoxCollider:
@@ -5919,7 +5919,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: d4b489185649fd142a2f65f2f4130f50, type: 3}
+  m_audioClip: {fileID: 8300000, guid: c2c6e28f2122f1e4481bea37a4946897, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -15160,7 +15160,7 @@ MonoBehaviour:
   keyToPress: 0
   Sostenido: 0
   Flecha: 0
-  EsSostenido: 0
+  EsSostenido: 1
   tecla: {fileID: 0}
 --- !u!65 &315908194
 BoxCollider:
@@ -21992,7 +21992,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 20742698434eaec4ca906ac11f5ea805, type: 3}
+  m_audioClip: {fileID: 8300000, guid: e701f402960f4174d8e28c8763dd5410, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -23659,7 +23659,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: c4d492bca0b939349b356e00d78029b4, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 49e7a9dd097668447ba7ebd066ce9fcd, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -25372,7 +25372,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: df640683400a8454f974024b977a7260, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 262f35d094312eb41af8d9d67d5a0a06, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -27826,7 +27826,7 @@ MonoBehaviour:
   keyToPress: 0
   Sostenido: 0
   Flecha: 0
-  EsSostenido: 0
+  EsSostenido: 1
   tecla: {fileID: 0}
 --- !u!65 &595205647
 BoxCollider:
@@ -29621,7 +29621,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 22833724a7c70ca49971f2b9f06f5365, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 65b8a8be32dc8064bac1b7b2640568c1, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -37170,7 +37170,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 8851528ed1b4a62409c1401bf4a81860, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 08a59c4906f1be24493c73a6b9b8125b, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -40886,7 +40886,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 37212e0e4a3961347aeff2298e8146a4, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 9d41c39408a4e594a9fdbbae1caae958, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -49816,7 +49816,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: a20bc58782dafc24aa9a570ba0af0cbe, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 5bd9a74e527412143800f1cdbae8a16f, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -54587,7 +54587,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: d1cc99dba728c2941aa08649d3274783, type: 3}
+  m_audioClip: {fileID: 8300000, guid: cd40770df30f754429b8423e25c20054, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -60283,7 +60283,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: f4f371da7f25e7d448a893f7ba416c0d, type: 3}
+  m_audioClip: {fileID: 8300000, guid: e99621d1f19e03b4e8a837293a5f4297, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -63477,7 +63477,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: dff5ba4c24ae46c4ea7e96e6f09bc253, type: 3}
+  m_audioClip: {fileID: 8300000, guid: ad77dcf5e59b5954d8f02c53a218228e, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -63741,7 +63741,7 @@ MonoBehaviour:
   keyToPress: 0
   Sostenido: 0
   Flecha: 0
-  EsSostenido: 0
+  EsSostenido: 1
   tecla: {fileID: 0}
 --- !u!65 &1261882283
 BoxCollider:
@@ -64503,7 +64503,7 @@ MonoBehaviour:
   keyToPress: 0
   Sostenido: 0
   Flecha: 0
-  EsSostenido: 0
+  EsSostenido: 1
   tecla: {fileID: 0}
 --- !u!65 &1274821044
 BoxCollider:
@@ -69265,7 +69265,7 @@ MonoBehaviour:
   keyToPress: 0
   Sostenido: 0
   Flecha: 0
-  EsSostenido: 0
+  EsSostenido: 1
   tecla: {fileID: 0}
 --- !u!65 &1352658798
 BoxCollider:
@@ -77226,7 +77226,7 @@ MonoBehaviour:
   keyToPress: 0
   Sostenido: 0
   Flecha: 0
-  EsSostenido: 0
+  EsSostenido: 1
   tecla: {fileID: 0}
 --- !u!65 &1502490035
 BoxCollider:
@@ -80285,7 +80285,7 @@ MonoBehaviour:
   keyToPress: 0
   Sostenido: 0
   Flecha: 0
-  EsSostenido: 0
+  EsSostenido: 1
   tecla: {fileID: 0}
 --- !u!65 &1553756376
 BoxCollider:
@@ -82276,7 +82276,7 @@ MonoBehaviour:
   keyToPress: 0
   Sostenido: 0
   Flecha: 0
-  EsSostenido: 0
+  EsSostenido: 1
   tecla: {fileID: 0}
 --- !u!65 &1578567930
 BoxCollider:
@@ -85775,7 +85775,7 @@ MonoBehaviour:
   keyToPress: 0
   Sostenido: 0
   Flecha: 0
-  EsSostenido: 0
+  EsSostenido: 1
   tecla: {fileID: 0}
 --- !u!65 &1661993569
 BoxCollider:
@@ -90372,7 +90372,7 @@ MonoBehaviour:
   keyToPress: 0
   Sostenido: 0
   Flecha: 0
-  EsSostenido: 0
+  EsSostenido: 1
   tecla: {fileID: 0}
 --- !u!65 &1741542596
 BoxCollider:
@@ -93438,7 +93438,7 @@ MonoBehaviour:
   keyToPress: 0
   Sostenido: 0
   Flecha: 0
-  EsSostenido: 0
+  EsSostenido: 1
   tecla: {fileID: 0}
 --- !u!65 &1821685421
 BoxCollider:
@@ -94359,7 +94359,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 25adbf996feacf74aaf53cfc171de8f0, type: 3}
+  m_audioClip: {fileID: 8300000, guid: bf72c1eb5b52dc24ca5da3757e76d24b, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -96295,7 +96295,7 @@ MonoBehaviour:
   keyToPress: 0
   Sostenido: 0
   Flecha: 0
-  EsSostenido: 0
+  EsSostenido: 1
   tecla: {fileID: 0}
 --- !u!65 &1875306587
 BoxCollider:
@@ -107895,7 +107895,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 50f68d0ad24b63a47856cab7530374ec, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 385ecfb57ab910141b0f1da98d596f40, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
@@ -108664,7 +108664,7 @@ MonoBehaviour:
   keyToPress: 0
   Sostenido: 0
   Flecha: 0
-  EsSostenido: 0
+  EsSostenido: 1
   tecla: {fileID: 0}
 --- !u!65 &2127217372
 BoxCollider:
@@ -111991,7 +111991,7 @@ GameObject:
   m_Layer: 0
   m_Name: PianoKey.016
   m_TagString: Activator16
-  m_Icon: {fileID: 2974397684917235467, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1

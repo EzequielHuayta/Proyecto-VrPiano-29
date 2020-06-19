@@ -10,7 +10,9 @@ public class NoteObject64 : MonoBehaviour
 
     public GameObject tecla;
 
-      private static bool TeclaNumero;
+      private static bool TeclaNumero = true;
+
+      private int valora = 0;
   private bool ok;
     // Start is called before the first frame update
     void Start()
@@ -23,7 +25,7 @@ public class NoteObject64 : MonoBehaviour
 
 
     // Update is called once per frame
-    void Update()
+ void Update()
     {
 TeclaNumero = Key64.presionada;
         if(Input.GetMouseButton(0) && TeclaNumero == true)
@@ -41,6 +43,7 @@ TeclaNumero = Key64.presionada;
         if(other.tag == "Activator64" )
         {
             canBePressed = true;
+
         }
     }
     private void OnTriggerExit(Collider other)
