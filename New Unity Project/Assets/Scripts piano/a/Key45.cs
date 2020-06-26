@@ -22,5 +22,6 @@ private void OnMouseUp() {
   presionada = false;
   key45.Stop();
   rb.isKinematic=false;
+  GameManager.prueba = false;
 }
 }

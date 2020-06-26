@@ -15,6 +15,8 @@ public int actualmiss = 1;
 public int currentMultiplier;
 public int multiplierTracker;
 
+public static bool prueba = false;
+
 private float totalHit;
 public int[] multiplierThresholds;
 public static GameManager instance;
@@ -67,7 +69,10 @@ void Update()
         rankVal="F";
         rankText.text = rankVal;
     }
+  Debug.Log(prueba);
 }
+
+
     void Start()
     {
         instance=this;
@@ -91,6 +96,7 @@ void Update()
     multiText.text = "Multiplier: x" + currentMultiplier;
     currentScore += scorePerNote * currentMultiplier;
     scoreText.text = "Score " + currentScore;
+    prueba = true;
     }
 
     public void NoteMissed()
