@@ -18,6 +18,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Libre.unity
     guid: a092c53452700794ea33a5c397a62cc1
   - enabled: 0
-    path: Assets/Scenes/JugarAprendizaje.unity
+    path: Assets/Scenes/Fail.unity
     guid: 95b4843e36aaa2d43ab5a523b3b0ac53
   m_configObjects: {}
