@@ -6,7 +6,10 @@ public class NoteObject42 : MonoBehaviour
 {
     public bool canBePressed;
     public KeyCode keyToPress;
-    public int Flecha;
+    
+    public string nombrecomparar;
+
+    public string numeroflecha;
 
     public GameObject tecla;
 
@@ -14,9 +17,13 @@ public class NoteObject42 : MonoBehaviour
 
   private bool ok;
     // Start is called before the first frame update
+
+
     void Start()
     {
- 
+PrefabKey variable = GetComponent<PrefabKey>();
+nombrecomparar = variable.nombre;
+Debug.Log(nombrecomparar);
     }
 
     // Update is called once per frame
@@ -43,7 +50,7 @@ TeclaNumero = Key42.presionada;
    private void OnTriggerEnter(Collider other)
     {
 
-        if(other.tag == "Activator42" )
+        if(nombrecomparar == numeroflecha)
         {
             canBePressed = true;
         }

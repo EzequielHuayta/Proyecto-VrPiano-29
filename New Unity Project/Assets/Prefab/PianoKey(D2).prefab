@@ -10,11 +10,11 @@ GameObject:
   m_Component:
   - component: {fileID: 5395084647846780355}
   - component: {fileID: 792096418225770008}
-  - component: {fileID: 3215416349516969271}
   - component: {fileID: 3599920898409671022}
   - component: {fileID: 7860484430471760824}
   - component: {fileID: 7860484430471760831}
   - component: {fileID: 7860484430471760825}
+  - component: {fileID: 3215416349516969271}
   m_Layer: 0
   m_Name: PianoKey(D2)
   m_TagString: Activator6
@@ -44,21 +44,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7860484430471760829}
   m_Mesh: {fileID: 2953058381575541993, guid: 5c7945af99931994ebe3878670f06be9, type: 3}
---- !u!114 &3215416349516969271
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7860484430471760829}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 24222ed946274ac4287ea410c7e90d11, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  key: {fileID: 0}
-  nombre: 
-  rb: {fileID: 0}
 --- !u!23 &3599920898409671022
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -162,3 +147,18 @@ HingeJoint:
   m_EnablePreprocessing: 1
   m_MassScale: 1
   m_ConnectedMassScale: 1
+--- !u!114 &3215416349516969271
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7860484430471760829}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24222ed946274ac4287ea410c7e90d11, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  key: {fileID: 0}
+  nombre: 
+  rb: {fileID: 7860484430471760824}
