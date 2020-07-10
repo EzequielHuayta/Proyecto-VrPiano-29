@@ -69,7 +69,7 @@ void Update()
         rankVal="F";
         rankText.text = rankVal;
     }
-
+  Debug.Log(prueba);
 }
 
 
@@ -96,7 +96,7 @@ void Update()
     multiText.text = "Multiplier: x" + currentMultiplier;
     currentScore += scorePerNote * currentMultiplier;
     scoreText.text = "Score " + currentScore;
-
+    prueba = true;
     }
 
     public void NoteMissed()

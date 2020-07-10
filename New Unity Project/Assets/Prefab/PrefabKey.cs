@@ -8,7 +8,7 @@ public AudioSource key;
 
 public string nombre;
 public Rigidbody rb;
-public bool presionada = false;
+public static bool presionada = false;
 private void OnMouseDown() 
 {
 presionada=true;

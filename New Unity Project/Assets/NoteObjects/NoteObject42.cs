@@ -5,12 +5,14 @@ using UnityEngine;
 public class NoteObject42 : MonoBehaviour
 {
     public bool canBePressed;
+    public KeyCode keyToPress;
+    
+    public string nombrecomparar;
+
     public string numeroflecha;
 
-   public GameObject g;
     public GameObject tecla;
 
-public bool c;
       private static bool TeclaNumero;
 
   private bool ok;
@@ -19,23 +21,24 @@ public bool c;
 
     void Start()
     {
-g = GameObject.Find(numeroflecha);
-PrefabKey b = g.GetComponent<PrefabKey>();
-c = b.presionada;
-
+PrefabKey variable = GetComponent<PrefabKey>();
+nombrecomparar = variable.nombre;
+Debug.Log(nombrecomparar);
     }
 
     // Update is called once per frame
     void Update()
     {
-//TeclaNumero = PrefabKey.presionada;
-Debug.Log(TeclaNumero);
-        if(Input.GetMouseButton(0) && c == true)
+TeclaNumero = Key42.presionada;
+
+        if(Input.GetMouseButton(0) && TeclaNumero == true)
         {
-         if(canBePressed)
+         if(canBePressed )
             {
             gameObject.SetActive(false);
+            TeclaNumero=false;
             GameManager.instance.NoteHit();
+            
             }
 
         }
@@ -47,9 +50,8 @@ Debug.Log(TeclaNumero);
    private void OnTriggerEnter(Collider other)
     {
 
-        if(numeroflecha == other.gameObject.name)
+        if(nombrecomparar == numeroflecha)
         {
-            Debug.Log(other.gameObject.name);
             canBePressed = true;
         }
         
@@ -57,15 +59,13 @@ Debug.Log(TeclaNumero);
     }
     private void OnTriggerExit(Collider other)
     {
-
-        if(numeroflecha == other.gameObject.name)
+        if(other.tag == "Activator42" )
         {
-                    Debug.Log(other.gameObject.name);
-        
+        {
             canBePressed = false;
             GameManager.instance.NoteMissed();
              gameObject.SetActive(false);
-        
+        }
         }
     }
 
